@@ -5,8 +5,10 @@ Libraries Used :- OpenCV, numpy, mediapipe, subprocess
 
 IDE - Pycharm
 
-demo:-
-Uploading WhatsApp Video 2021-06-07 at 16.07.58.mp4…
+demo - 
+https://user-images.githubusercontent.com/78467404/121003276-fdb81700-c7aa-11eb-89e5-d33546636738.mp4
+
+
 
 
 
